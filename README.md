@@ -4,36 +4,17 @@ Proyecto final para Diplomado de Machine Learning &amp; Deep Learning. FIUNA
 
 ## Problema
 	Buscamos predecir el peso de un grupo de pollos, los cuáles fueron alimentados con 4 tipos de dietas.
-	Los productores de pollos buscan maximizar la ganancia de pesos comparando 
+	Los productores de pollos buscan maximizar la ganancia de pesos comparando distintas dietas, basadas en distintos porcentajes entre proteinas, granos, etc.
 	
 	
 ML/DL como solución.
-	
+    Buscamos con las herramientas básicas de regresión lineal para predecir el peso y posteriormente utilizamos herramientas más copmplejas como Lasso y Ridge para mejorar nuestras predicciones de peso.
 	
 Métrica del éxito.
+	Las métricas de nuestro experimento serán R2 y MAE
 	
-	
-	
-    ¿Qué problema resuelves y para quién?
 
-    ¿Por qué ML/DL es la solución?
 
-    ¿Cuál es tu métrica de éxito y por qué? 
-     Bloque 2 · Codigo
-
-    Muestra el repositorio en GitHub (estructura de carpetas)
-
-    Abre el notebook y explica el pipeline:
-
-        Carga de datos
-
-        Preprocesamiento (ColumnTransformer + Pipeline)
-
-        Modelo entrenado
-
-        Evaluación sobre test
-
-    Muestra el modelo cargándose  o haciendo inferencia.
 
 Bloque 3 · Pipeline + Demo (4 min)
 
